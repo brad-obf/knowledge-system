@@ -1,4 +1,23 @@
-# AI Knowledge Extractor v1.4 (Generalized) — Labeled
+Execute the attached "AI Knowledge Extractor v1.5" on this conversation.
+
+Instructions:
+- Treat the full conversation as input unless otherwise specified
+- Follow all rules defined in the prompt exactly
+- Generate the full structured output including the required header
+
+Header values:
+- Extraction ID: [manually assign or increment]
+- Date: [today’s date]
+- Source: ChatGPT
+- URL: [paste conversation URL if available]
+- Mode: Full
+- Extraction Version: v1.5
+
+Do not omit any required sections.
+Do not summarize the conversation.
+Focus on reusable, decision-relevant insights only.
+
+# AI Knowledge Extractor v1.4 (Generalized)
 
 ## [FOUNDATION] Purpose
 
