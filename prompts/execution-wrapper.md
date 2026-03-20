@@ -1,4 +1,4 @@
-Execute the following "AI Knowledge Extractor v1.6" on this conversation.
+Execute the following "AI Knowledge Extractor" on this conversation.
 
 Instructions:
 - Treat the full conversation as input
@@ -12,5 +12,4 @@ Header values:
 - Date: [YYYY-MM-DD]
 - Source: ChatGPT
 - URL: [paste link if available]
-- Mode: Full
-- Extraction Version: v1.6
+- Extraction Version: v1.7
